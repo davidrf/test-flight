@@ -1,7 +1,6 @@
 ### Learning Goals
 
 * Get familar with writing and organizing RSpec tests
-* (Optional) Refactor tests using the `let` keyword
 
 ### Instructions
 
